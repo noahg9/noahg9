@@ -21,4 +21,6 @@ Welcome to my GitHub profile!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahguerin/)
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:noahguerin3@outlook.com)
 
+---
+
 Thanks for visiting!
