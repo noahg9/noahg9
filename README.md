@@ -1,4 +1,4 @@
-# Hi, I'm Noah 👋
+# Hi, I'm Noah
 
 Welcome to my GitHub profile!  
 
