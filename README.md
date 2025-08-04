@@ -2,7 +2,7 @@
 
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frontend**  
